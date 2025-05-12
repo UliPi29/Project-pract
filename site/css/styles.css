@@ -68,3 +68,22 @@ footer a {
     color: #fff; /* Цвет ссылок в подвале */
     text-decoration: underline; /* Подчеркивание для ссылок */
 }
+
+code {
+    background-color: #f4f4f4;
+    padding: 2px 4px;
+    border-radius: 4px;
+}
+
+pre {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 4px;
+    overflow-x: auto;
+}
+
+img {
+    max-width: 100%; 
+    height: auto;
+    text-align: center;    
+}
