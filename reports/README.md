@@ -6,5 +6,5 @@
 ---
 - Добавлен [Отчет по взаимодействию с организацией-партнером.md]()
 - Добавлен [Отчет.docx](https://github.com/UliPi29/Project-pract/blob/master/reports/Отчёт.docx) + [Отчет.pdf](https://github.com/UliPi29/Project-pract/blob/master/reports/Отчёт.pdf) по базовой части ПП
-- Добавлен [Итоговый отчет.docx]() + [Итоговый отчет.pdf]() по вариативной части ПП
+- Добавлен [Итоговый отчет.docx](https://github.com/UliPi29/Project-pract/blob/master/reports/Итоговый%20отчет.docx) + [Итоговый отчет.pdf]() по вариативной части ПП
 - Добавлена папка `photo` для изображений, входящих в документы и отчеты.
