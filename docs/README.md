@@ -4,5 +4,6 @@
 - README.md — основной файл с документацией, описывающий процесс выполнения практики.
 - При необходимости могут добавляться дополнительные файлы Markdown.
 ---
-* добавлена [презентация](https://github.com/UliPi29/Project-pract/blob/master/docs/Презентация.pptx). Доступ к видео-презентации по [ссылке](https://drive.google.com/file/d/1veSFaviCrHXJwD4mL7sCojwjhXvukyEJ/view?usp=sharing) (из-за большого размера файла не может быть закреплена в репозитории).
-* [видео-демонстрация](https://drive.google.com/file/d/1-p8yFfyWltpEtwaEJxO58ceB_gFRP0Z2/view?usp=sharing) работы технологии.
+- Добавлена [презентация](https://github.com/UliPi29/Project-pract/blob/master/docs/Презентация.pptx). Доступ к видео-презентации по [ссылке](https://drive.google.com/file/d/1veSFaviCrHXJwD4mL7sCojwjhXvukyEJ/view?usp=sharing) (из-за большого размера файла не может быть закреплена в репозитории).
+- Сылка на [видео-демонстрацию](https://drive.google.com/file/d/1-p8yFfyWltpEtwaEJxO58ceB_gFRP0Z2/view?usp=sharing) работы технологии.
+- Добавлен файл [Вариативная часть](), содержащий:
